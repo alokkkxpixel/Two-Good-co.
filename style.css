@@ -16,7 +16,7 @@ html , body{
 }
 @font-face {
     font-family: 'FuturaBold';
-    src: url('fonts/Futura-Bold.ttf') format('truetype');
+    src: url('Futura-Bold.ttf') format('truetype');
     font-style: normal;
 }
 @font-face {
